@@ -48,8 +48,8 @@ A typical workflow might be to:
 
 # Compatibility 
 
-[x] StackEngine Ecosystem
-[x] General Docker Ecosystem
+* [x] StackEngine Ecosystem
+* [x] General Docker Ecosystem
 
 This image is generally useful as it does not leverage any of the special 
 features of the StackEngine Container Application Center.
